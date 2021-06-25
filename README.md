@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá pessoa incrível que está vendo meu perfil!
+
+
+<a href="https://github.com/Loliticos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Loliticos&show_icons=true&include_all_commits=true&hide=issues&hide_border=true&theme=buefy&locale=pt-br" />
+</a>
+<a href="https://github.com/Loliticos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loliticos&locale=pt-br&hide_border=true&hide_title=true&theme=vue" />
+</a>
 
 <!--
 **Loliticos/Loliticos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
