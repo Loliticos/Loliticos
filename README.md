@@ -1,6 +1,6 @@
 ## Ammy
 
-My name is Amanda, I am from Brasilia (Brasil), i'm a backend developer, and mostly use [`Javascript`], [`Rust`] and [`GO`] on my projects. I love mystery, I am fascinated with the universe and the human mind, for me it's the two things that have more questions than answers and I love that.
+My name is Amanda, I am from Brasilia (Brasil), and mostly a backend developer, I mostly use [`Javascript`], [`Rust`] and [`GO`] on my projects. I love mystery, I am fascinated with the universe and the human mind, for me it's the two things that have more questions than answers and I love that.
 
 ## Contact Me
 
