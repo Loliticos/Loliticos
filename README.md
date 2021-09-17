@@ -1,7 +1,5 @@
 # ammy
 
-<img align="right" src="https://avatars.githubusercontent.com/u/47262825?v=4" width="300" height="300" />
-
 ## about me.
 
 ![name](https://img.shields.io/static/v1?label=&message=Name%3A&color=111&style=flat-square)
