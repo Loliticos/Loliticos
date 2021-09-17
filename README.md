@@ -9,7 +9,7 @@
 ![asl2](https://img.shields.io/static/v1?label=&message=16%2C%20female%2C%20Brazil&color=555&style=flat-square)
 
 ![occupation](https://img.shields.io/static/v1?label=&message=Occupation%3A&color=111&style=flat-square)
-![occupation2](https://img.shields.io/static/v1?label=&message=student%2C%20backend%20%20developer&color=555&style=flat-square)
+![occupation2](https://img.shields.io/static/v1?label=&message=psychology%20student&color=555&style=flat-square)
 
 ![stack](https://img.shields.io/static/v1?label=&message=Stack%3A&color=111&style=flat-square)
 ![stack2](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=555&style=flat-square)
